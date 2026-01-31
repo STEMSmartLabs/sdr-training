@@ -75,6 +75,9 @@ PRs are welcome—especially improvements to:
 - Comments inside flowgraphs
 - Additional training examples (AM, SSB, ADS-B, IQ recording/playback, etc.)
 
+## Presentation
+[SDR Training](https://www.canva.com/design/DAG_m1lCB_s/ZaVkh1YwGu7ze1AkWwM-bw/view?utm_content=DAG_m1lCB_s&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3f64748405)
+
 ## License
 This project is licensed under the MIT License.
 
